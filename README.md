@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
-<b> 『Userbot』 </b>
+<b> 『USERBOT』 </b>
 </h1>
 
 <h6 align="center">
