@@ -1,4 +1,4 @@
-[![LEGENDBOT](https://telegra.ph/file/5e402dad01f1d6992f9d2.jpg)](https://github.com/ITS-LEGENDBOT/LEGENDBOT)
+[![LEGENDBOT](https://telegra.ph/file/e16a27d1a30883aa1acd4.jpg)](https://github.com/ITS-LEGENDBOT/LEGENDBOT)
 
 
 <h1 align="center">
