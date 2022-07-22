@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
-<b> 『Lêɠêɳ̃dẞø†』 </b>
+<b> 『Userbot』 </b>
 </h1>
 
 <h6 align="center">
