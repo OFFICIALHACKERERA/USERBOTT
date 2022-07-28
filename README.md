@@ -1,9 +1,4 @@
-[![LEGENDBOT](https://telegra.ph/file/e16a27d1a30883aa1acd4.jpg)](https://github.com/ITS-LEGENDBOT/LEGENDBOT)
 
-
-<h1 align="center">
-<b> 『USERBOT』 </b>
-</h1>
 
 <h6 align="center">
   <b>⚡ Presenting a LegendBot. Which Is One Of The Fastest & Smoothest Bot On Telegram Based on Telethon ⚡</b>
