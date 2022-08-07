@@ -88,7 +88,7 @@
 
 - `pip3 install -r requirements.txt`
 
-- `python3 -m userbot`
+- `python3 -m Deepak`
  
 ------
 ## Disclaimer
@@ -110,7 +110,6 @@
 
 >               💖 Thanks for using our bot 💖
 
-</details>
 
 
-> Made with 💕 by [@LegendBot_XD](https://t.me/LegendBot_XD).    
+
