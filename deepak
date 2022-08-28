@@ -87,7 +87,7 @@ _start_bot () {
     _run_legendgit
     python3 ../setup/updater.py ../requirements.txt requirements.txt
     chmod -R 755 bin
-    echo "    Starting LegendUserBot    "
+    echo "💕 Starting UserBot... "
     python3 -m Deepak
 }
 
