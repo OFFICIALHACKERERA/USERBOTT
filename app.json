@@ -20,23 +20,23 @@
       "description": "give your name",
       "value": ""
     },
-    "APP_ID": {
+    "APP_ID": {29552088
       "description": "Get this value from my.telegram.org! Please do not steal",
       "value": ""
     },
-    "API_HASH": {
+    "API_HASH": {447fc9a24e6a8a4b4e9582ff76c96f6f
       "description": "Get this value from my.telegram.org! Please do not steal",
       "value": ""
     },
-    "DEEPAK_STRING": {
+    "DEEPAK_STRING": {BQDEizZkRi4_nXIycbqq_g0XzCZgV4iU-9zFBzHN57hCaZrW88llIm5MEhhnW7bllRd5GCZ2HRIcIhHkZ147EkaOwdZCBaxCbNyb2DR6TCB_NrWTBojli8VCcrp5xfms3N2f_IHrnRAQIrnXtiWwqizEHsS47wq6aRmKd-krXbQnCSFkIKuKBpPe8YEXR2WCqujmM2zBwD0skHdkdiwKvMncbii5DYE2xMY7dkim79zIK70HbdQ28ZeEVDX-tl7EtM79-a8hiK7RMylJ_u0T_fm8skHVP4evFrbiNtg5AdZxfF7S7YlFfQJKxtCYDz2H5w1aRiy7RDqzFfxUaArbhmrbAAAAATVNfZIA
       "description": "Get this value by running https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py",
       "value": ""
     },
-    "BOT_TOKEN": {
+    "BOT_TOKEN": {5755475716:AAFAoTcyk5H1dHI0gpIdabEOcWJm8OxMt_g
       "description": "Needed for inline buttons maker. Make a bot at http://telegram.dog/BotFather and get the token of your bot.Worth it. Get it.",
       "value": ""
     },
-    "OWNER_ID": {
+    "OWNER_ID": {5189238162
       "description": "owner Id",
       "value": "",
       "required": true
@@ -51,7 +51,7 @@
       "value": "",
       "required": false
     },
-    "APP_NAME": {
+    "APP_NAME": {itzxd
       "description": "YOUR app name ",
       "value": "",
       "required": false
