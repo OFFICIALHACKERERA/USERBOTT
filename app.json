@@ -16,27 +16,27 @@
       "description": "Set this to ANYTHING will enable heroku.",
       "value": "ANYTHING"
     },
-    "ALIVE_NAME": {
+    "ALIVE_NAME": {〆千ＬＡ丂卄
       "description": "give your name",
       "value": ""
     },
-    "APP_ID": {
+    "APP_ID": {29552088
       "description": "Get this value from my.telegram.org! Please do not steal",
       "value": ""
     },
-    "API_HASH": {
+    "API_HASH": {447fc9a24e6a8a4b4e9582ff76c96f6f
       "description": "Get this value from my.telegram.org! Please do not steal",
       "value": ""
     },
-    "DEEPAK_STRING": {
+    "DEEPAK_STRING": {1BVtsOHIBu3xdb4PLiwoELSkBwlM-pb86KMvmHnOEsWVxUQlWXR0s3wNvC54aOppM_OxxR2ZNNQrr7QB7b0oV7U8IBB-7D44JCjXrBufPaZfGD9qpcLyfjP3q7BZu6IczQIk2b33-eamXuUGU69bR8FfQsn_xl0xc3IXaW6ARUbUAEQdvy9T_F9PdUp0qGJlEfJoaosSOdPKwwhuSLQCuJQejBqazy-7joz3oWTXSrWB61FAo_wQke1o4AQt4BYvlx2ONN8I74_LSBv_Lws4YMTOtZ3PziBIE-gZqShrPwSVP--M6FZPqLGoHQ-5VJn-PHVOC0GC4MSV7Pc1qydzPHprsiOWSFh4=
       "description": "Get this value by running https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py",
       "value": ""
     },
-    "BOT_TOKEN": {
+    "BOT_TOKEN": {5755475716:AAFAoTcyk5H1dHI0gpIdabEOcWJm8OxMt_g
       "description": "Needed for inline buttons maker. Make a bot at http://telegram.dog/BotFather and get the token of your bot.Worth it. Get it.",
       "value": ""
     },
-    "OWNER_ID": {
+    "OWNER_ID": {5189238162
       "description": "owner Id",
       "value": "",
       "required": true
